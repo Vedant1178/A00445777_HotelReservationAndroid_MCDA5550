@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vedant Patel Hotel System</string>
+    <string name="welcome_text">Welcome to Hotel Reservation System</string>
+    <string name="check_button">CHECK MY SEARCH</string>
+    <string name="search_button">SEARCH</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="name_edit">Name of Guest</string>
+    <string name="age_edit">Age of Guest</string>
+    <string name="guestNumber_text">Number of Guests</string>
+    <string name="guestName_text">Enter Your Good Name</string>
+    <string name="checkIn_text">Check In Date :</string>
+    <string name="checkOut_text">Check Out Date :</string>
+
+</resources>
